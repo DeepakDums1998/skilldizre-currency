@@ -1,0 +1,11 @@
+# ignore node_modules
+node_modules
+
+# ignore dist
+dist
+
+# ignore build
+build
+
+# ignore .env
+.env
